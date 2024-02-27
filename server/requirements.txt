@@ -1,0 +1,11 @@
+controlnet_aux
+diffusers
+fastapi
+Pillow
+pydantic==2.6.0
+Requests==2.31.0
+torch
+uvicorn
+accelerate
+transformers
+xformers

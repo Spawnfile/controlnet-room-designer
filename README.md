@@ -24,11 +24,11 @@ There are many preprocessor that can be used within ControlNet model such as MLS
 
 ---
 ## Model Outputs 
-![alt text](input_image.png)
+![alt text](images/input_image.png)
 - Input Image
 
 - Prompt -> `a japanese style living room`
 
-![alt text](msld_output.png)
+![alt text](images/msld_output.png)
 - Output Image
 
